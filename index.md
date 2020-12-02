@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Radost Kostova's blog
 
-I'm glad you are here. I plan to talk about ...
+Hi, folks! I'm currently a student in Software University (SoftUni) and i am using C# programming language.
